@@ -1,0 +1,30 @@
+{
+  "selected_features": [
+    "Series_WoyMean",
+    "Sales_Lag52",
+    "Series_Std",
+    "CPI",
+    "Week",
+    "Dept",
+    "Unemployment",
+    "Dept_Mean",
+    "Series_Mean",
+    "Fuel_Price",
+    "Series_Median",
+    "Store",
+    "Temperature",
+    "Store_Mean",
+    "Sales_Lag52_Mean3",
+    "MarkDown3",
+    "Size",
+    "MarkDown5",
+    "Month",
+    "MarkDown1",
+    "MarkDown4",
+    "MarkDown2",
+    "IsHoliday",
+    "IsPreChristmas",
+    "Year",
+    "Type"
+  ]
+}
