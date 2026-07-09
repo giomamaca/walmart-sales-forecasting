@@ -220,3 +220,8 @@ __marimo__/
 # project-specific
 *.csv
 wandb/
+
+# Competition data / generated artifacts
+data/
+submission.csv
+*.joblib
