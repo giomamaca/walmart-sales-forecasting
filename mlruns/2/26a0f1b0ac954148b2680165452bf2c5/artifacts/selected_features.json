@@ -1,0 +1,22 @@
+{
+  "selected_features": [
+    "Dept",
+    "Size",
+    "Store",
+    "CPI",
+    "Week",
+    "Unemployment",
+    "Temperature",
+    "Type",
+    "Month",
+    "IsPreChristmas",
+    "MarkDown3",
+    "Fuel_Price",
+    "MarkDown4",
+    "MarkDown5",
+    "MarkDown1",
+    "IsHoliday",
+    "MarkDown2",
+    "Year"
+  ]
+}
