@@ -1,0 +1,23 @@
+artifact_path: /content/walmart-sales-forecasting/mlruns/12/models/m-f3c1b140673d4634ae7902dd1962e884/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.13
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+    skops_trusted_types: null
+mlflow_version: 3.14.0
+model_id: m-f3c1b140673d4634ae7902dd1962e884
+model_size_bytes: 4193810
+model_uuid: m-f3c1b140673d4634ae7902dd1962e884
+prompts: null
+run_id: dabe0ca282274c139db4ada0493e1809
+utc_time_created: '2026-07-11 13:20:50.986606'
